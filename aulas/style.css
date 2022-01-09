@@ -1,0 +1,19 @@
+div{
+    background-color:aquamarine ;
+    width: 82%;
+    margin:2%,20px,2%;
+   
+}
+div.form{
+    background-color:aquamarine ;
+    width: 62%;
+    padding: 3px;
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+body{
+    background-color: rgba(251, 255, 0, 0.425);
+}
